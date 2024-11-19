@@ -1,7 +1,3 @@
-Based on your `TransactionController` class, here’s an updated and enriched README tailored to highlight the key functionalities provided by your service:
-
----
-
 # Banking Transaction Service  
 
 ![Build](https://img.shields.io/badge/Build-Passing-brightgreen.svg) ![License](https://img.shields.io/github/license/aditya-madhav-bits/banking-txn-service)
@@ -133,7 +129,3 @@ mvn test
 
 ## Contribution Guidelines 🤝
 Contributions are welcome! Please fork this repo, create a feature branch, and submit a pull request.  
-
----
-
-If you'd like to highlight other aspects, such as `TransactionService` or DTO structure, let me know!
